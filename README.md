@@ -8,7 +8,7 @@ Step-3 Create a blank flow. Add the required components:
 
 1. Chat Input
 2. Agent
-3. Chat Outpu
+3. Chat Output
 <img width="1517" height="887" alt="image" src="https://github.com/user-attachments/assets/169c04c1-458a-478c-bba3-a73fa4b4c5fe" />
 
 Step-4 OStep4- Open custom agent in code view and add code mentioned in the file   <a href="https://github.com/bhupeshther003/Langflow_Custom_Agent_with_IBM_Granite_Model_Replicate_Token/blob/main/langflow_agent.py"> lanflow_agent.py </a> and In this code replace your replicate token key.
